@@ -1,21 +1,36 @@
 Chaos Thrust
   Delivers an attack with a potency of 100.
   Obtained  Lancer Lv.50
+Dragonfire Dive
+  Delivers a jumping fire-based attack with a potency of 250 to all nearby enemies. Cannot be executed while bound.
+  Obtained  Dragoon Lv.50
 Ring of Thorns
   Delivers an attack with a potency of 100 to all nearby enemies.
   Obtained  Lancer Lv.46
+Power Surge
+  Increases the damage dealt by a single Jump or Spineshatter Dive by 50%.
+  Obtained  Dragoon Lv.45
 Doom Spike
   Delivers an attack with a potency of 160 to all enemies in a straight line before you.
   Obtained  Lancer Lv.42
+Spineshatter Dive
+  Delivers a jumping attack with a potency of 170.
+  Obtained  Dragoon Lv.40
 Disembowel
   Delivers an attack with a potency of 100.
   Obtained  Lancer Lv.38
+Elusive Jump
+  Executes a jump to a location 15 yalms behind you, while removing any Heavy or Bind effects.
+  Obtained  Dragoon Lv.35
 Blood for Blood
   Increases damage dealt by 30% and damage suffered by 25%.
   Obtained  Lancer Lv.34
 Phlebotomize
   Delivers an attack with a potency of 170.
   Obtained  Lancer Lv.30
+Jump
+  Delivers a jumping attack with a potency of 200. Returns you to your original position after the attack is made. Cannot be executed while bound.
+  Obtained  Dragoon Lv.30
 Full Thrust
   Delivers an attack with a potency of 100.
   Obtained  Lancer Lv.26

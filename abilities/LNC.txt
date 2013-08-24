@@ -22,6 +22,12 @@ Raging Strikes
 Straight Shot
   Delivers an attack with a potency of 140.
   Obtained  Archer Lv.2
+Swiftcast
+  Next spell is cast immediately.
+  Obtained  Thaumaturge Lv.26
+Surecast
+  Next spell is cast without interruption.
+  Obtained  Thaumaturge Lv.8
 Stoneskin
   Creates a barrier around target that absorbs damage totaling 18% of target's maximum HP.
   Obtained  Conjurer Lv.34
@@ -34,21 +40,6 @@ Protect
 Cure
   Restores target's HP.
   Obtained  Conjurer Lv.2
-Awareness
-  Nullifies chance of suffering critical damage.
-  Obtained  Gladiator Lv.34
-Provoke
-  Gesture threateningly, increasing enmity in target.
-  Obtained  Gladiator Lv.22
-Convalescence
-  Increases HP restored by spells or actions by 30%.
-  Obtained  Gladiator Lv.10
-Flash
-  Increases enmity in all nearby enemies.
-  Obtained  Gladiator Lv.8
-Savage Blade
-  Delivers an attack with a potency of 100.
-  Obtained  Gladiator Lv.4
 Chaos Thrust
   Delivers an attack with a potency of 100.
   Obtained  Lancer Lv.50
@@ -100,6 +91,21 @@ Feint
 True Thrust
   Delivers an attack with a potency of 150.
   Obtained  Lancer Lv.1
+Awareness
+  Nullifies chance of suffering critical damage.
+  Obtained  Gladiator Lv.34
+Provoke
+  Gesture threateningly, increasing enmity in target.
+  Obtained  Gladiator Lv.22
+Convalescence
+  Increases HP restored by spells or actions by 30%.
+  Obtained  Gladiator Lv.10
+Flash
+  Increases enmity in all nearby enemies.
+  Obtained  Gladiator Lv.8
+Savage Blade
+  Delivers an attack with a potency of 100.
+  Obtained  Gladiator Lv.4
 Mercy Stroke
   Delivers an attack with a potency of 200.
   Obtained  Marauder Lv.26
@@ -130,9 +136,3 @@ Second Wind
 Featherfoot
   Increases evasion by 25%.
   Obtained  Pugilist Lv.4
-Swiftcast
-  Next spell is cast immediately.
-  Obtained  Thaumaturge Lv.26
-Surecast
-  Next spell is cast without interruption.
-  Obtained  Thaumaturge Lv.8

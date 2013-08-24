@@ -31,21 +31,36 @@ Foresight
 Perfect Balance
   Allows execution of weaponskills which require a certain form, without being in that form.
   Obtained  Pugilist Lv.50
+Dragon Kick
+  Delivers an attack with a potency of 100.
+  Obtained  Monk Lv.50
 Howling Fist
   Delivers an attack with a potency of 170 to all enemies in a straight line before you.
   Obtained  Pugilist Lv.46
+One Ilm Punch
+  Delivers an attack with a potency of 80. Can only be used when in raptor form.
+  Obtained  Monk Lv.45
 Mantra
   Increases HP recovery via curing magic by 20% for self and nearby party members.
   Obtained  Pugilist Lv.42
+Fists of Fire
+  Increases damage dealt by 5%.
+  Obtained  Monk Lv.40
 Steel Peak
   Delivers an attack with a potency of 150.
   Obtained  Pugilist Lv.38
+Shoulder Tackle
+  Rushes target and delivers an attack with a potency of 100. Must be more than 10 yalms from target to execute.
+  Obtained  Monk Lv.35
 Fists of Wind
   Increases movement speed.
   Obtained  Pugilist Lv.34
 Demolish
   Delivers damage over time with a potency of 40.
   Obtained  Pugilist Lv.30
+Rockbreaker
+  Delivers an attack with a potency of 130 to all enemies in a cone before you.
+  Obtained  Monk Lv.30
 Arm of the Destroyer
   Delivers an attack with a potency of 50 to all nearby targets.
   Obtained  Pugilist Lv.26

@@ -1,14 +1,23 @@
 #/usr/bin/env bash
 
 classes=(
-	'CONJURER'
-	'THAUMATURGE'
+	'ARCANIST'
 	'ARCHER'
+	'BARD'
+	'BLACK+MAGE'
+	'CONJURER'
+	'DRAGOON'
 	'GLADIATOR'
 	'LANCER'
 	'MARAUDER'
+	'MONK'
+	'PALADIN'
 	'PUGILIST'
-	'ARCANIST'
+	'SCHOLAR'
+	'SUMMONER'
+	'THAUMATURGE'
+	'WARRIOR'
+	'WHITE+MAGE'
 )
 
 for class in "${classes[@]}"; do

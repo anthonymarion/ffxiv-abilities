@@ -52,6 +52,15 @@ Bio
 Ruin
   Deals unaspected damage with a potency of 80.
   Obtained  Arcanist Lv.1
+Swiftcast
+  Next spell is cast immediately.
+  Obtained  Thaumaturge Lv.26
+Surecast
+  Next spell is cast without interruption.
+  Obtained  Thaumaturge Lv.8
+Thunder
+  Deals lightning damage with a potency of 30.
+  Obtained  Thaumaturge Lv.6
 Stoneskin
   Creates a barrier around target that absorbs damage totaling 18% of target's maximum HP.
   Obtained  Conjurer Lv.34
@@ -70,12 +79,18 @@ Aero
 Cure
   Restores target's HP.
   Obtained  Conjurer Lv.2
-Swiftcast
-  Next spell is cast immediately.
-  Obtained  Thaumaturge Lv.26
-Surecast
-  Next spell is cast without interruption.
-  Obtained  Thaumaturge Lv.8
-Thunder
-  Deals lightning damage with a potency of 30.
-  Obtained  Thaumaturge Lv.6
+Lustrate
+  Restores 20% of target's maximum HP. Only available when under the effect of Aetherflow.
+  Obtained  Scholar Lv.50
+Sacred Soil
+  Creates a designated area in which party members will only suffer 90% of all damage inflicted.
+  Obtained  Scholar Lv.45
+Leeches
+  Removes a single detrimental effect from target.
+  Obtained  Scholar Lv.40
+Succor
+  Restores own HP and the HP of all nearby party members.
+  Obtained  Scholar Lv.35
+Adloquium
+  Restores target's HP.
+  Obtained  Scholar Lv.30

@@ -79,3 +79,18 @@ Second Wind
 Featherfoot
   Increases evasion by 25%.
   Obtained  Pugilist Lv.4
+Infuriate
+  Instantly grants five units of Wrath, changing status to Infuriated. Can only be used when Defiance is active.
+  Obtained  Warrior Lv.50
+Steel Cyclone
+  Delivers an attack with a potency of 200 to all nearby enemies. Ignores the 35% damage penalty inflicted by Defiance. Can only be executed when Infuriated. All Wrath is lost when used.
+  Obtained  Warrior Lv.45
+Unchained
+  Nullifies the damage penalty inflicted by Defiance.
+  Obtained  Warrior Lv.40
+Inner Beast
+  Delivers an attack with a potency of 300.
+  Obtained  Warrior Lv.35
+Defiance
+  Increases maximum HP by 25%, while lowering damage dealt by 25% and increasing enmity.
+  Obtained  Warrior Lv.30

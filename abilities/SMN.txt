@@ -61,9 +61,6 @@ Hawk's Eye
 Raging Strikes
   Increases damage dealt by 20%.
   Obtained  Archer Lv.4
-Aero
-  Deals wind damage with a potency of 50.
-  Obtained  Conjurer Lv.4
 Swiftcast
   Next spell is cast immediately.
   Obtained  Thaumaturge Lv.26
@@ -73,3 +70,21 @@ Surecast
 Thunder
   Deals lightning damage with a potency of 30.
   Obtained  Thaumaturge Lv.6
+Aero
+  Deals wind damage with a potency of 50.
+  Obtained  Conjurer Lv.4
+Enkindle
+  Commands pet to use its signature attack.
+  Obtained  Summoner Lv.50
+Spur
+  Increases a pet's physical and magical attack power by 40%.
+  Obtained  Summoner Lv.45
+Tri-disaster
+  Deals unaspected damage with a potency of 30 to target and all targets neraby it.
+  Obtained  Summoner Lv.40
+Fester
+  Cause wounds inflicted by Bio, Bio II, and Miasma to fester, dealing damage with a potency of 100 for each effect. Can only be used when the original spells were cast by you, and when under the effect of Aetherflow.
+  Obtained  Summoner Lv.35
+Summon III
+  Summons an attacker-type pet to fight at your side.
+  Obtained  Summoner Lv.30

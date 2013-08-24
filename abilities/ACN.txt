@@ -61,6 +61,15 @@ Hawk's Eye
 Raging Strikes
   Increases damage dealt by 20%.
   Obtained  Archer Lv.4
+Swiftcast
+  Next spell is cast immediately.
+  Obtained  Thaumaturge Lv.26
+Surecast
+  Next spell is cast without interruption.
+  Obtained  Thaumaturge Lv.8
+Thunder
+  Deals lightning damage with a potency of 30.
+  Obtained  Thaumaturge Lv.6
 Stoneskin
   Creates a barrier around target that absorbs damage totaling 18% of target's maximum HP.
   Obtained  Conjurer Lv.34
@@ -76,6 +85,15 @@ Aero
 Cure
   Restores target's HP.
   Obtained  Conjurer Lv.2
+Blood for Blood
+  Increases damage dealt by 30% and damage suffered by 25%.
+  Obtained  Lancer Lv.34
+Invigorate
+  Instantly restores 500 TP.
+  Obtained  Lancer Lv.22
+Keen Flurry
+  Increases parry rate by 80%.
+  Obtained  Lancer Lv.6
 Awareness
   Nullifies chance of suffering critical damage.
   Obtained  Gladiator Lv.34
@@ -88,15 +106,6 @@ Convalescence
 Flash
   Increases enmity in all nearby enemies.
   Obtained  Gladiator Lv.8
-Blood for Blood
-  Increases damage dealt by 30% and damage suffered by 25%.
-  Obtained  Lancer Lv.34
-Invigorate
-  Instantly restores 500 TP.
-  Obtained  Lancer Lv.22
-Keen Flurry
-  Increases parry rate by 80%.
-  Obtained  Lancer Lv.6
 Mercy Stroke
   Delivers an attack with a potency of 200.
   Obtained  Marauder Lv.26
@@ -118,12 +127,3 @@ Second Wind
 Featherfoot
   Increases evasion by 25%.
   Obtained  Pugilist Lv.4
-Swiftcast
-  Next spell is cast immediately.
-  Obtained  Thaumaturge Lv.26
-Surecast
-  Next spell is cast without interruption.
-  Obtained  Thaumaturge Lv.8
-Thunder
-  Deals lightning damage with a potency of 30.
-  Obtained  Thaumaturge Lv.6

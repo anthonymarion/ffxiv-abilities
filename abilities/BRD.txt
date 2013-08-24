@@ -49,6 +49,21 @@ Straight Shot
 Heavy Shot
   Delivers an attack with a potency of 150.
   Obtained  Archer Lv.1
+Battle Voice
+  Doubles the effectiveness of all songs.
+  Obtained  Bard Lv.50
+Rain of Death
+  Delivers an attack with a potency of 100 to target and enemies near it.
+  Obtained  Bard Lv.45
+Army's Paeon
+  Refreshes TP of all nearby party members while lowering own damage dealt by 20%. MP is drained while singing. Refresh effect is lost if party members move out of hearing distance, and ends upon reuse. Cannot be used with other songs.
+  Obtained  Bard Lv.40
+Foe Requiem
+  Reduces all enemy elemental resistance by 10%. MP is drained while singing. Effect is lost if targets move out of hearing distance, and ends upon reuse. Cannot be used with other songs.
+  Obtained  Bard Lv.35
+Mage's Ballad
+  Refreshes MP of all nearby party members while lowering own damage dealt by 20%. MP is drained while singing. Refresh effect is lost if party members move out of hearing distance, and ends upon reuse. Cannot be used with other songs.
+  Obtained  Bard Lv.30
 Blood for Blood
   Increases damage dealt by 30% and damage suffered by 25%.
   Obtained  Lancer Lv.34

@@ -22,21 +22,36 @@ Raging Strikes
 Aetherial Manipulation
   Rush to a target party member's side.
   Obtained  Thaumaturge Lv.50
+Flare
+  Deals fire damage with a potency of 260 to a target and enemies near it.
+  Obtained  Black Mage Lv.50
 Thunder III
   Deals lightning damage with a potency of 60.
   Obtained  Thaumaturge Lv.46
+Manawall
+  Creates a barrier that nullifies two physical attacks.
+  Obtained  Black Mage Lv.45
 Lethargy
   Inflicts target with Slow and Heavy +20%.
   Obtained  Thaumaturge Lv.42
+Apocatastasis
+  Increases a Disciple of War or Magic party member's resistance to fire, ice, and lightning by 30%.
+  Obtained  Black Mage Lv.40
 Blizzard III
   Deals ice damage with a potency of 220.
   Obtained  Thaumaturge Lv.38
+Freeze
+  Covers a designated area in ice, dealing ice damage with a potency of 20 and binding enemies that enter.
+  Obtained  Black Mage Lv.35
 Fire III
   Deals fire damage with a potency of 220.
   Obtained  Thaumaturge Lv.34
 Manaward
   Creates a barrier that nullifies magic damage totaling up to 30% of maximum HP.
   Obtained  Thaumaturge Lv.30
+Convert
+  Sacrifices 20% of maximum HP to restore 30% of MP. Cannot be executed when current HP is lower than 20%.
+  Obtained  Black Mage Lv.30
 Swiftcast
   Next spell is cast immediately.
   Obtained  Thaumaturge Lv.26

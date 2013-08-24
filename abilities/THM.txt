@@ -19,63 +19,6 @@ Hawk's Eye
 Raging Strikes
   Increases damage dealt by 20%.
   Obtained  Archer Lv.4
-Stoneskin
-  Creates a barrier around target that absorbs damage totaling 18% of target's maximum HP.
-  Obtained  Conjurer Lv.34
-Raise
-  Resurrects target to a weakened state.
-  Obtained  Conjurer Lv.12
-Protect
-  Increases the physical and magic defense of all party members within range of target.
-  Obtained  Conjurer Lv.8
-Aero
-  Deals wind damage with a potency of 50.
-  Obtained  Conjurer Lv.4
-Cure
-  Restores target's HP.
-  Obtained  Conjurer Lv.2
-Awareness
-  Nullifies chance of suffering critical damage.
-  Obtained  Gladiator Lv.34
-Provoke
-  Gesture threateningly, increasing enmity in target.
-  Obtained  Gladiator Lv.22
-Convalescence
-  Increases HP restored by spells or actions by 30%.
-  Obtained  Gladiator Lv.10
-Flash
-  Increases enmity in all nearby enemies.
-  Obtained  Gladiator Lv.8
-Blood for Blood
-  Increases damage dealt by 30% and damage suffered by 25%.
-  Obtained  Lancer Lv.34
-Invigorate
-  Instantly restores 500 TP.
-  Obtained  Lancer Lv.22
-Keen Flurry
-  Increases parry rate by 80%.
-  Obtained  Lancer Lv.6
-Mercy Stroke
-  Delivers an attack with a potency of 200.
-  Obtained  Marauder Lv.26
-Bloodbath
-  Converts 25% of physical damage dealt into HP.
-  Obtained  Marauder Lv.8
-Foresight
-  Increases defense by 20%.
-  Obtained  Marauder Lv.2
-Mantra
-  Increases HP recovery via curing magic by 20% for self and nearby party members.
-  Obtained  Pugilist Lv.42
-Internal Release
-  Increases critical hit rate by 30%.
-  Obtained  Pugilist Lv.12
-Second Wind
-  Instantly restores own HP.
-  Obtained  Pugilist Lv.8
-Featherfoot
-  Increases evasion by 25%.
-  Obtained  Pugilist Lv.4
 Aetherial Manipulation
   Rush to a target party member's side.
   Obtained  Thaumaturge Lv.50
@@ -127,3 +70,60 @@ Fire
 Blizzard
   Deals ice damage with a potency of 150.
   Obtained  Thaumaturge Lv.1
+Stoneskin
+  Creates a barrier around target that absorbs damage totaling 18% of target's maximum HP.
+  Obtained  Conjurer Lv.34
+Raise
+  Resurrects target to a weakened state.
+  Obtained  Conjurer Lv.12
+Protect
+  Increases the physical and magic defense of all party members within range of target.
+  Obtained  Conjurer Lv.8
+Aero
+  Deals wind damage with a potency of 50.
+  Obtained  Conjurer Lv.4
+Cure
+  Restores target's HP.
+  Obtained  Conjurer Lv.2
+Blood for Blood
+  Increases damage dealt by 30% and damage suffered by 25%.
+  Obtained  Lancer Lv.34
+Invigorate
+  Instantly restores 500 TP.
+  Obtained  Lancer Lv.22
+Keen Flurry
+  Increases parry rate by 80%.
+  Obtained  Lancer Lv.6
+Awareness
+  Nullifies chance of suffering critical damage.
+  Obtained  Gladiator Lv.34
+Provoke
+  Gesture threateningly, increasing enmity in target.
+  Obtained  Gladiator Lv.22
+Convalescence
+  Increases HP restored by spells or actions by 30%.
+  Obtained  Gladiator Lv.10
+Flash
+  Increases enmity in all nearby enemies.
+  Obtained  Gladiator Lv.8
+Mercy Stroke
+  Delivers an attack with a potency of 200.
+  Obtained  Marauder Lv.26
+Bloodbath
+  Converts 25% of physical damage dealt into HP.
+  Obtained  Marauder Lv.8
+Foresight
+  Increases defense by 20%.
+  Obtained  Marauder Lv.2
+Mantra
+  Increases HP recovery via curing magic by 20% for self and nearby party members.
+  Obtained  Pugilist Lv.42
+Internal Release
+  Increases critical hit rate by 30%.
+  Obtained  Pugilist Lv.12
+Second Wind
+  Instantly restores own HP.
+  Obtained  Pugilist Lv.8
+Featherfoot
+  Increases evasion by 25%.
+  Obtained  Pugilist Lv.4

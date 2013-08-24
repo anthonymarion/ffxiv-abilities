@@ -22,6 +22,12 @@ Raging Strikes
 Straight Shot
   Delivers an attack with a potency of 140.
   Obtained  Archer Lv.2
+Swiftcast
+  Next spell is cast immediately.
+  Obtained  Thaumaturge Lv.26
+Surecast
+  Next spell is cast without interruption.
+  Obtained  Thaumaturge Lv.8
 Stoneskin
   Creates a barrier around target that absorbs damage totaling 18% of target's maximum HP.
   Obtained  Conjurer Lv.34
@@ -34,6 +40,21 @@ Protect
 Cure
   Restores target's HP.
   Obtained  Conjurer Lv.2
+Blood for Blood
+  Increases damage dealt by 30% and damage suffered by 25%.
+  Obtained  Lancer Lv.34
+Invigorate
+  Instantly restores 500 TP.
+  Obtained  Lancer Lv.22
+Impulse Drive
+  Delivers an attack with a potency of 100.
+  Obtained  Lancer Lv.8
+Keen Flurry
+  Increases parry rate by 80%.
+  Obtained  Lancer Lv.6
+Feint
+  Delivers an attack with a potency of 120.
+  Obtained  Lancer Lv.2
 Circle of Scorn
   Delivers an attack with a potency of 100 to all nearby enemies.
   Obtained  Gladiator Lv.50
@@ -85,21 +106,6 @@ Rampart
 Fast Blade
   Delivers an attack with a potency of 150.
   Obtained  Gladiator Lv.1
-Blood for Blood
-  Increases damage dealt by 30% and damage suffered by 25%.
-  Obtained  Lancer Lv.34
-Invigorate
-  Instantly restores 500 TP.
-  Obtained  Lancer Lv.22
-Impulse Drive
-  Delivers an attack with a potency of 100.
-  Obtained  Lancer Lv.8
-Keen Flurry
-  Increases parry rate by 80%.
-  Obtained  Lancer Lv.6
-Feint
-  Delivers an attack with a potency of 120.
-  Obtained  Lancer Lv.2
 Mercy Stroke
   Delivers an attack with a potency of 200.
   Obtained  Marauder Lv.26
@@ -130,9 +136,3 @@ Second Wind
 Featherfoot
   Increases evasion by 25%.
   Obtained  Pugilist Lv.4
-Swiftcast
-  Next spell is cast immediately.
-  Obtained  Thaumaturge Lv.26
-Surecast
-  Next spell is cast without interruption.
-  Obtained  Thaumaturge Lv.8

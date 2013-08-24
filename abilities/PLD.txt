@@ -76,3 +76,18 @@ Skull Sunder
 Foresight
   Increases defense by 20%.
   Obtained  Marauder Lv.2
+Hallowed Ground
+  Renders you impervious to most attacks.
+  Obtained  Paladin Lv.50
+Spirits Within
+  Delivers an attack with a potency of 300.
+  Obtained  Paladin Lv.45
+Shield Oath
+  Reduces damage received by 20%, while lowering damage dealt by 20% and increasing enmity. Cannot be used with Sword Oath.
+  Obtained  Paladin Lv.40
+Cover
+  Take all physical damage intended for another party member. Can only be used when member is closer than 6 yalms.
+  Obtained  Paladin Lv.35
+Sword Oath
+  Increases the potency of auto-attacks by 50.
+  Obtained  Paladin Lv.30

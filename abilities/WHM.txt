@@ -10,6 +10,15 @@ Physick
 Ruin
   Deals unaspected damage with a potency of 80.
   Obtained  Arcanist Lv.1
+Swiftcast
+  Next spell is cast immediately.
+  Obtained  Thaumaturge Lv.26
+Surecast
+  Next spell is cast without interruption.
+  Obtained  Thaumaturge Lv.8
+Thunder
+  Deals lightning damage with a potency of 30.
+  Obtained  Thaumaturge Lv.6
 Medica II
   Restores own HP and the HP of all nearby party members.
   Obtained  Conjurer Lv.50
@@ -61,12 +70,18 @@ Cure
 Stone
   Deals earth damage with a potency of 140.
   Obtained  Conjurer Lv.1
-Swiftcast
-  Next spell is cast immediately.
-  Obtained  Thaumaturge Lv.26
-Surecast
-  Next spell is cast without interruption.
-  Obtained  Thaumaturge Lv.8
-Thunder
-  Deals lightning damage with a potency of 30.
-  Obtained  Thaumaturge Lv.6
+Benediction
+  Restores all of a target's HP.
+  Obtained  White Mage Lv.50
+Holy
+  Delivers a magic attack with a potency of 240 to all nearby enemies.
+  Obtained  White Mage Lv.45
+Divine Seal
+  Increases healing magic potency by 30%.
+  Obtained  White Mage Lv.40
+Regen
+  Grants healing over time effect to target.
+  Obtained  White Mage Lv.35
+Presence of Mind
+  Increases spell speed.
+  Obtained  White Mage Lv.30
