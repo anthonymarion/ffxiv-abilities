@@ -1,0 +1,81 @@
+Chaos Thrust
+  Delivers an attack with a potency of 100.
+  Obtained  Lancer Lv.50
+Ring of Thorns
+  Delivers an attack with a potency of 100 to all nearby enemies.
+  Obtained  Lancer Lv.46
+Doom Spike
+  Delivers an attack with a potency of 160 to all enemies in a straight line before you.
+  Obtained  Lancer Lv.42
+Disembowel
+  Delivers an attack with a potency of 100.
+  Obtained  Lancer Lv.38
+Blood for Blood
+  Increases damage dealt by 30% and damage suffered by 25%.
+  Obtained  Lancer Lv.34
+Phlebotomize
+  Delivers an attack with a potency of 170.
+  Obtained  Lancer Lv.30
+Full Thrust
+  Delivers an attack with a potency of 100.
+  Obtained  Lancer Lv.26
+Invigorate
+  Instantly restores 500 TP.
+  Obtained  Lancer Lv.22
+Life Surge
+  Ensures critical damage for first non-magic action used while Life Surge is active. Damage dealt will be absorbed as HP, up to 10% of maximum HP.
+  Obtained  Lancer Lv.18
+Piercing Talon
+  Delivers a ranged attack with a potency of 120.
+  Obtained  Lancer Lv.15
+Heavy Thrust
+  Delivers an attack with a potency of 100.
+  Obtained  Lancer Lv.12
+Leg Sweep
+  Delivers an attack with a potency of 130.
+  Obtained  Lancer Lv.10
+Impulse Drive
+  Delivers an attack with a potency of 100.
+  Obtained  Lancer Lv.8
+Keen Flurry
+  Increases parry rate by 80%.
+  Obtained  Lancer Lv.6
+Vorpal Thrust
+  Delivers an attack with a potency of 100.
+  Obtained  Lancer Lv.4
+Feint
+  Delivers an attack with a potency of 120.
+  Obtained  Lancer Lv.2
+True Thrust
+  Delivers an attack with a potency of 150.
+  Obtained  Lancer Lv.1
+Mercy Stroke
+  Delivers an attack with a potency of 200.
+  Obtained  Marauder Lv.26
+Bloodbath
+  Converts 25% of physical damage dealt into HP.
+  Obtained  Marauder Lv.8
+Fracture
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.6
+Skull Sunder
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.4
+Foresight
+  Increases defense by 20%.
+  Obtained  Marauder Lv.2
+Mantra
+  Increases HP recovery via curing magic by 20% for self and nearby party members.
+  Obtained  Pugilist Lv.42
+Internal Release
+  Increases critical hit rate by 30%.
+  Obtained  Pugilist Lv.12
+Haymaker
+  Delivers an attack with a potency of 170.
+  Obtained  Pugilist Lv.10
+Second Wind
+  Instantly restores own HP.
+  Obtained  Pugilist Lv.8
+Featherfoot
+  Increases evasion by 25%.
+  Obtained  Pugilist Lv.4

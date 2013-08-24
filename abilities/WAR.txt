@@ -1,0 +1,81 @@
+Awareness
+  Nullifies chance of suffering critical damage.
+  Obtained  Gladiator Lv.34
+Provoke
+  Gesture threateningly, increasing enmity in target.
+  Obtained  Gladiator Lv.22
+Convalescence
+  Increases HP restored by spells or actions by 30%.
+  Obtained  Gladiator Lv.10
+Flash
+  Increases enmity in all nearby enemies.
+  Obtained  Gladiator Lv.8
+Savage Blade
+  Delivers an attack with a potency of 100.
+  Obtained  Gladiator Lv.4
+Storm's Eye
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.50
+Vengeance
+  Delivers an attack with a potency of 50 every time you suffer physical damage.
+  Obtained  Marauder Lv.46
+Holmgang
+  Binds both caster and target.
+  Obtained  Marauder Lv.42
+Storm's Path
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.38
+Thrill of Battle
+  Increases maximum HP by 20% and restores the amount increased.
+  Obtained  Marauder Lv.34
+Butcher's Block
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.30
+Mercy Stroke
+  Delivers an attack with a potency of 200.
+  Obtained  Marauder Lv.26
+Berserk
+  Increases attack power by 50%.
+  Obtained  Marauder Lv.22
+Maim
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.18
+Tomahawk
+  Delivers a ranged attack with a potency of 130.
+  Obtained  Marauder Lv.15
+Overpower
+  Delivers an attack with a potency of 120 to all enemies in a cone before you.
+  Obtained  Marauder Lv.12
+Brutal Swing
+  Delivers an attack with a potency of 50.
+  Obtained  Marauder Lv.10
+Bloodbath
+  Converts 25% of physical damage dealt into HP.
+  Obtained  Marauder Lv.8
+Fracture
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.6
+Skull Sunder
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.4
+Foresight
+  Increases defense by 20%.
+  Obtained  Marauder Lv.2
+Heavy Swing
+  Delivers an attack with a potency of 150.
+  Obtained  Marauder Lv.1
+Mantra
+  Increases HP recovery via curing magic by 20% for self and nearby party members.
+  Obtained  Pugilist Lv.42
+Internal Release
+  Increases critical hit rate by 30%.
+  Obtained  Pugilist Lv.12
+Haymaker
+  Delivers an attack with a potency of 170.
+  Obtained  Pugilist Lv.10
+Second Wind
+  Instantly restores own HP.
+  Obtained  Pugilist Lv.8
+Featherfoot
+  Increases evasion by 25%.
+  Obtained  Pugilist Lv.4

@@ -1,0 +1,81 @@
+Shadow Flare
+  Envelops a designated area in a veil of magicked shadows, dealing damage with a potency of 25 to any who enter.
+  Obtained  Arcanist Lv.50
+Miasma II
+  Deals unaspected damage with a potency of 20 to all nearby enemies.
+  Obtained  Arcanist Lv.46
+Rouse
+  Increases healing magic potency and damage dealt by pet by 40%. While roused, pet will be immune to stun, sleep, bind, heavy, paralysis, and disease.
+  Obtained  Arcanist Lv.42
+Ruin II
+  Deals unaspected damage with a potency of 80.
+  Obtained  Arcanist Lv.38
+Eye for an Eye
+  Erects a magicked barrier arround a single party member or pet. Duration: 30s
+  Obtained  Arcanist Lv.34
+Bane
+  Spreads a target's Bio, Bio II, and Miasma to all nearby enemies.
+  Obtained  Arcanist Lv.30
+Bio II
+  Deals unaspected damage over time.
+  Obtained  Arcanist Lv.26
+Resurrection
+  Resurrects target to a weakened state.
+  Obtained  Arcanist Lv.22
+Sustain
+  Sacrifices 10% of own maximum HP to continuously restore 8% of summon's HP over a period of 10s. Cannot execute if HP is below 10%.
+  Obtained  Arcanist Lv.18
+Summon II
+  Summons a support-type pet to fight at your side.
+  Obtained  Arcanist Lv.15
+Virus
+  Reduces target's STR, DEX, INT, and MND by 15%.
+  Obtained  Arcanist Lv.12
+Miasma
+  Deals unaspected damage with a potency of 20.
+  Obtained  Arcanist Lv.10
+Energy Drain
+  Deals unaspected damage with a potency of 150.
+  Obtained  Arcanist Lv.8
+Aetherflow
+  Restores 20% of maximum MP.
+  Obtained  Arcanist Lv.6
+Summon
+  Summons a healer-type pet to fight at your side.
+  Obtained  Arcanist Lv.4
+Physick
+  Restores target's HP.
+  Obtained  Arcanist Lv.4
+Bio
+  Deals unaspected damage over time.
+  Obtained  Arcanist Lv.2
+Ruin
+  Deals unaspected damage with a potency of 80.
+  Obtained  Arcanist Lv.1
+Stoneskin
+  Creates a barrier around target that absorbs damage totaling 18% of target's maximum HP.
+  Obtained  Conjurer Lv.34
+Raise
+  Resurrects target to a weakened state.
+  Obtained  Conjurer Lv.12
+Protect
+  Increases the physical and magic defense of all party members within range of target.
+  Obtained  Conjurer Lv.8
+Cleric Stance
+  Swaps current INT and MND attribute ratings, while increasing potency of attack spells by 10% and reducing potency of healing spells by 20%. Effect ends upon reuse.
+  Obtained  Conjurer Lv.6
+Aero
+  Deals wind damage with a potency of 50.
+  Obtained  Conjurer Lv.4
+Cure
+  Restores target's HP.
+  Obtained  Conjurer Lv.2
+Swiftcast
+  Next spell is cast immediately.
+  Obtained  Thaumaturge Lv.26
+Surecast
+  Next spell is cast without interruption.
+  Obtained  Thaumaturge Lv.8
+Thunder
+  Deals lightning damage with a potency of 30.
+  Obtained  Thaumaturge Lv.6

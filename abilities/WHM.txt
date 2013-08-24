@@ -1,0 +1,72 @@
+Eye for an Eye
+  Erects a magicked barrier arround a single party member or pet. Duration: 30s
+  Obtained  Arcanist Lv.34
+Virus
+  Reduces target's STR, DEX, INT, and MND by 15%.
+  Obtained  Arcanist Lv.12
+Physick
+  Restores target's HP.
+  Obtained  Arcanist Lv.4
+Ruin
+  Deals unaspected damage with a potency of 80.
+  Obtained  Arcanist Lv.1
+Medica II
+  Restores own HP and the HP of all nearby party members.
+  Obtained  Conjurer Lv.50
+Aero II
+  Deals wind damage with a potency of 50.
+  Obtained  Conjurer Lv.46
+Cure III
+  Restores HP of all party members within range of target.
+  Obtained  Conjurer Lv.42
+Shroud of Saints
+  Reduces enmity by half.
+  Obtained  Conjurer Lv.38
+Stoneskin
+  Creates a barrier around target that absorbs damage totaling 18% of target's maximum HP.
+  Obtained  Conjurer Lv.34
+Cure II
+  Restores target's HP.
+  Obtained  Conjurer Lv.30
+Repose
+  Inflicts target with Sleep.
+  Obtained  Conjurer Lv.26
+Stone II
+  Deals earth damage with a potency of 170.
+  Obtained  Conjurer Lv.22
+Esuna
+  Removes a single detrimental effect from target.
+  Obtained  Conjurer Lv.18
+Fluid Aura
+  Deals water damage with a potency of 150.
+  Obtained  Conjurer Lv.15
+Raise
+  Resurrects target to a weakened state.
+  Obtained  Conjurer Lv.12
+Medica
+  Restores own HP and the HP of all nearby party members.
+  Obtained  Conjurer Lv.10
+Protect
+  Increases the physical and magic defense of all party members within range of target.
+  Obtained  Conjurer Lv.8
+Cleric Stance
+  Swaps current INT and MND attribute ratings, while increasing potency of attack spells by 10% and reducing potency of healing spells by 20%. Effect ends upon reuse.
+  Obtained  Conjurer Lv.6
+Aero
+  Deals wind damage with a potency of 50.
+  Obtained  Conjurer Lv.4
+Cure
+  Restores target's HP.
+  Obtained  Conjurer Lv.2
+Stone
+  Deals earth damage with a potency of 140.
+  Obtained  Conjurer Lv.1
+Swiftcast
+  Next spell is cast immediately.
+  Obtained  Thaumaturge Lv.26
+Surecast
+  Next spell is cast without interruption.
+  Obtained  Thaumaturge Lv.8
+Thunder
+  Deals lightning damage with a potency of 30.
+  Obtained  Thaumaturge Lv.6

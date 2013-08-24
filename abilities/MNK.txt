@@ -1,0 +1,81 @@
+Blood for Blood
+  Increases damage dealt by 30% and damage suffered by 25%.
+  Obtained  Lancer Lv.34
+Invigorate
+  Instantly restores 500 TP.
+  Obtained  Lancer Lv.22
+Impulse Drive
+  Delivers an attack with a potency of 100.
+  Obtained  Lancer Lv.8
+Keen Flurry
+  Increases parry rate by 80%.
+  Obtained  Lancer Lv.6
+Feint
+  Delivers an attack with a potency of 120.
+  Obtained  Lancer Lv.2
+Mercy Stroke
+  Delivers an attack with a potency of 200.
+  Obtained  Marauder Lv.26
+Bloodbath
+  Converts 25% of physical damage dealt into HP.
+  Obtained  Marauder Lv.8
+Fracture
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.6
+Skull Sunder
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.4
+Foresight
+  Increases defense by 20%.
+  Obtained  Marauder Lv.2
+Perfect Balance
+  Allows execution of weaponskills which require a certain form, without being in that form.
+  Obtained  Pugilist Lv.50
+Howling Fist
+  Delivers an attack with a potency of 170 to all enemies in a straight line before you.
+  Obtained  Pugilist Lv.46
+Mantra
+  Increases HP recovery via curing magic by 20% for self and nearby party members.
+  Obtained  Pugilist Lv.42
+Steel Peak
+  Delivers an attack with a potency of 150.
+  Obtained  Pugilist Lv.38
+Fists of Wind
+  Increases movement speed.
+  Obtained  Pugilist Lv.34
+Demolish
+  Delivers damage over time with a potency of 40.
+  Obtained  Pugilist Lv.30
+Arm of the Destroyer
+  Delivers an attack with a potency of 50 to all nearby targets.
+  Obtained  Pugilist Lv.26
+Fists of Earth
+  Reduces damage taken by 10%.
+  Obtained  Pugilist Lv.22
+Twin Snakes
+  Delivers an attack with a potency of 100.
+  Obtained  Pugilist Lv.18
+Touch of Death
+  Delivers an attack with a potency of 20.
+  Obtained  Pugilist Lv.15
+Internal Release
+  Increases critical hit rate by 30%.
+  Obtained  Pugilist Lv.12
+Haymaker
+  Delivers an attack with a potency of 170.
+  Obtained  Pugilist Lv.10
+Second Wind
+  Instantly restores own HP.
+  Obtained  Pugilist Lv.8
+Snap Punch
+  Delivers an attack with a potency of 140.
+  Obtained  Pugilist Lv.6
+Featherfoot
+  Increases evasion by 25%.
+  Obtained  Pugilist Lv.4
+True Strike
+  Delivers an attack with a potency of 150. Chance for critical damage increases by 5% when dealt from behind target. Can only be used when in raptor form.
+  Obtained  Pugilist Lv.2
+Bootshine
+  Delivers an attack with a potency of 130.
+  Obtained  Pugilist Lv.1

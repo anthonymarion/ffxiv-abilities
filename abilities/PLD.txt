@@ -1,0 +1,78 @@
+Stoneskin
+  Creates a barrier around target that absorbs damage totaling 18% of target's maximum HP.
+  Obtained  Conjurer Lv.34
+Raise
+  Resurrects target to a weakened state.
+  Obtained  Conjurer Lv.12
+Protect
+  Increases the physical and magic defense of all party members within range of target.
+  Obtained  Conjurer Lv.8
+Cure
+  Restores target's HP.
+  Obtained  Conjurer Lv.2
+Circle of Scorn
+  Delivers an attack with a potency of 100 to all nearby enemies.
+  Obtained  Gladiator Lv.50
+Bulwark
+  Increases block rate by 60%.
+  Obtained  Gladiator Lv.46
+Tempered Will
+  Immediately cures Bind and Heavy,
+  Obtained  Gladiator Lv.42
+Sentinel
+  Reduces damage taken by 40%.
+  Obtained  Gladiator Lv.38
+Awareness
+  Nullifies chance of suffering critical damage.
+  Obtained  Gladiator Lv.34
+Shield Swipe
+  Delivers an attack with a potency of 210.
+  Obtained  Gladiator Lv.30
+Rage of Halone
+  Delivers an attack with a potency of 100.
+  Obtained  Gladiator Lv.26
+Provoke
+  Gesture threateningly, increasing enmity in target.
+  Obtained  Gladiator Lv.22
+Shield Bash
+  Delivers an attack with a potency of 110.
+  Obtained  Gladiator Lv.18
+Shield Lob
+  Delivers an attack with a potency of 120.
+  Obtained  Gladiator Lv.15
+Riot Blade
+  Delivers an attack with a potency of 100.
+  Obtained  Gladiator Lv.12
+Convalescence
+  Increases HP restored by spells or actions by 30%.
+  Obtained  Gladiator Lv.10
+Flash
+  Increases enmity in all nearby enemies.
+  Obtained  Gladiator Lv.8
+Fight or Flight
+  Increases physical damage dealt by 30%.
+  Obtained  Gladiator Lv.6
+Savage Blade
+  Delivers an attack with a potency of 100.
+  Obtained  Gladiator Lv.4
+Rampart
+  Reduces damage taken by 20%.
+  Obtained  Gladiator Lv.2
+Fast Blade
+  Delivers an attack with a potency of 150.
+  Obtained  Gladiator Lv.1
+Mercy Stroke
+  Delivers an attack with a potency of 200.
+  Obtained  Marauder Lv.26
+Bloodbath
+  Converts 25% of physical damage dealt into HP.
+  Obtained  Marauder Lv.8
+Fracture
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.6
+Skull Sunder
+  Delivers an attack with a potency of 100.
+  Obtained  Marauder Lv.4
+Foresight
+  Increases defense by 20%.
+  Obtained  Marauder Lv.2
