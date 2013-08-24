@@ -61,5 +61,5 @@ classes.forEach (className) ->
 
     """
 
-  fs.unlink "abilities/#{className}.txt"
-  fs.writeFileSync "abilities/#{className}.txt", formatted
+  fs.unlink "abilities/#{className}.txt", ->
+    fs.writeFile "abilities/#{className}.txt", formatted
